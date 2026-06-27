@@ -1,5 +1,7 @@
 # Habitua — Tinnitus Habituation, Not Masking
 
+**[Try the live demo](https://appetize.io/app/b_r6l3smpipjg43mcxzrsenrs32e)** — runs in your browser, no iPhone needed.
+
 An iOS app that helps people with tinnitus *build tolerance* instead of
 becoming dependent on masking. Where most apps cover the ringing with louder
 noise, Habitua uses gentle, below-threshold sound enrichment, attention
